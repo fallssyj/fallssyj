@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm SYJ.
 
-<!--
-**fallssyj/fallssyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏠[imsyj.cn](https://imsyj.cn) 
+- 💌[falls_syj@qq.com](mailto:falls_syj@qq.com)
 
-Here are some ideas to get you started:
+#### Total
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=fallssyj&show_icons=true" 
+    alt="fallssyj"
+  />
+</p>
+
