@@ -9,6 +9,8 @@
 
 - 如果程序能跑，那就不要动它。一动，就是另一场灾难的开始。——这是我的座右铭。
 
+**If it works, don't touch it.**
+
 - 🏠[imsyj.cn](https://imsyj.cn) 
 - 💌[falls_syj@qq.com](mailto:falls_syj@qq.com)
 
