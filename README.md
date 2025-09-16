@@ -1,6 +1,6 @@
 ## 👋 Hi,I Am SYJ.
 
-- 90后，九年义务教育成功避开的“优质漏网之鱼”。
+- 90后，九年义务教育成功避开的“优质漏网之鱼”。  
 Post-90s, a "quality fish that slipped through the net" of nine-year compulsory education.
 - 职业是广告人，副业是代码界的“Bug制造专家”与“死循环艺术家”。
 By day an ad man, by night a "Bug Manufacturing Expert" and "Infinite Loop Artist" in the code world.
